@@ -34,7 +34,12 @@ Download earlier versions of Marlin on the [Releases page](https://github.com/Ma
 #define X_MIN_ENDSTOP_INVERTING false // Set to true to invert the logic of the endstop.
 #define Y_MIN_ENDSTOP_INVERTING false // Set to true to invert the logic of the endstop.
 
-i just change false to true and work well 
+i just change false to true and work well
+
+ // Mechanical endstop with COM to ground and NC to Signal uses "false" here (most common setup).
+#define X_MIN_ENDSTOP_INVERTING true // Set to true to invert the logic of the endstop.
+#define Y_MIN_ENDSTOP_INVERTING true // Set to true to invert the logic of the endstop.
+
 i work with frimware  "Ender 3 Pro" i get it form source code  
 Configration - [ MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations)
 then go to  C:\Users\Mostafa\Desktop\Configurations-release-2.1.2.2\config\examples\Creality\Ender-3 Pro\BigTreeTech SKR Mini E3 3.0

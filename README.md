@@ -21,6 +21,40 @@ Marlin 2.1 continues to support both 32-bit ARM and 8-bit AVR boards while addin
 
 Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
 
+
+## Important Porblem 
+
+1- I Have a problem in x and y axis the problem is when making auto home and push on endstop not stop and continuo this is make a damge in my printer 
+
+ solve is 
+ 1-the frimware skr on github not work well all version not working 
+ 2- when work with marlin software the logic code is that 
+
+ // Mechanical endstop with COM to ground and NC to Signal uses "false" here (most common setup).
+#define X_MIN_ENDSTOP_INVERTING false // Set to true to invert the logic of the endstop.
+#define Y_MIN_ENDSTOP_INVERTING false // Set to true to invert the logic of the endstop.
+
+i just change false to true and work well 
+i work with frimware  "Ender 3 Pro" i get it form source code  
+Configration - [ MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations)
+then go to  C:\Users\Mostafa\Desktop\Configurations-release-2.1.2.2\config\examples\Creality\Ender-3 Pro\BigTreeTech SKR Mini E3 3.0
+
+my Controller is Skr v3 e3 mini 
+i select all file and copy it in this marlin 
+C:\Users\Mostafa\Desktop\Marlin-2.1.2.2\Marlin-2.1.2.2\Marlin
+make paste  in this path 
+
+
+2- Problem two is that in Z axis i install A BLTOUCH But His type is a 3D TOUCH 
+Also not work becuse the SW_MODE not Found or Complate 
+so i commented it 
+
+  //#define BLTOUCH_FORCE_SW_MODE
+
+
+
+
+
 ## Example Configurations
 
 Before you can build Marlin for your machine you'll need a configuration for your specific hardware. Upon request, your vendor will be happy to provide you with the complete source code and configurations for your machine, but you'll need to get updated configuration files if you want to install a newer version of Marlin. Fortunately, Marlin users have contributed dozens of tested configurations to get you started. Visit the [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) repository to find the right configuration for your hardware.

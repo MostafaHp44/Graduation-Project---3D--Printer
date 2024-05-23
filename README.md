@@ -23,7 +23,8 @@ Download earlier versions of Marlin on the [Releases page](https://github.com/Ma
 
 ## PIC OF 3D PRINTER
 
-this printer made in egypt and all of commponents is assempeld with us and we run it with malrin software 
+This 3D printer was made in Egypt, and the components were collected, assembled and installed in Egypt by me and my friends
+<br/>
 <img alt="3D PRINTER EGYPT" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYAMdtkm0wvkhzvATUziOafItjc-9LxBvVxhecwDgDDijIe0ha9Hc8JaKaugrvPAdWuj5_n_NGW1-TupHESrPnIzisjE6JzTws=w1920-h927-rw-v1">
 <img alt="O6U 3D PRINTER on Mastodon" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social">
 <img alt="MOSTAFA HP 3D PRINTER" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social">

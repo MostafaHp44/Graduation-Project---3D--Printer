@@ -21,6 +21,12 @@ Marlin 2.1 continues to support both 32-bit ARM and 8-bit AVR boards while addin
 
 Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
 
+## PIC OF 3D PRINTER
+
+this printer made in egypt and all of commponents is assempeld with us and we run it with malrin software 
+<img alt="3D PRINTER EGYPT" src="https://drive.google.com/drive/folders/1GmJHEJRvaN3kjidbmwhq26O6pTz5LsSM">
+<img alt="O6U 3D PRINTER on Mastodon" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social">
+<img alt="MOSTAFA HP 3D PRINTER" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social">
 
 ## Important Porblem 
 

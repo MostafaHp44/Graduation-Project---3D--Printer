@@ -26,8 +26,12 @@ Download earlier versions of Marlin on the [Releases page](https://github.com/Ma
 This 3D printer was made in Egypt, and the components were collected, assembled and installed in Egypt by me and my friends
 <br/>
 <img alt="3D PRINTER EGYPT" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYAMdtkm0wvkhzvATUziOafItjc-9LxBvVxhecwDgDDijIe0ha9Hc8JaKaugrvPAdWuj5_n_NGW1-TupHESrPnIzisjE6JzTws=w1920-h927-rw-v1">
-<img alt="O6U 3D PRINTER on Mastodon" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social">
-<img alt="MOSTAFA HP 3D PRINTER" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social">
+
+Skr v3 e3 mini 
+<img alt="O6U 3D PRINTER on Mastodon" src=" https://drive.google.com/file/d/19dECCbLiNPQoIRGO-mcRQzHCrKyG4kwI/view?usp=sharing">
+
+Power Supply
+<img alt="MOSTAFA HP 3D PRINTER" src=" https://drive.google.com/file/d/1w4eLstY1uqftlOm4gnALNrz6j8Bv8YzF/view?usp=sharing">
 
 ## Important Porblem 
 

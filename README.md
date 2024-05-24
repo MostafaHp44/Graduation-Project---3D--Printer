@@ -28,10 +28,10 @@ This 3D printer was made in Egypt, and the components were collected, assembled 
 <img alt="3D PRINTER EGYPT" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYAMdtkm0wvkhzvATUziOafItjc-9LxBvVxhecwDgDDijIe0ha9Hc8JaKaugrvPAdWuj5_n_NGW1-TupHESrPnIzisjE6JzTws=w1920-h927-rw-v1">
 
 Skr v3 e3 mini 
-<img alt="O6U 3D PRINTER on Mastodon" src=" https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihavQ3q85r0KJp_B3WnhiovXIisztT8SQOVLTVviqDwjjuOF0_UX35uqsPmToXCtqFcYlLCTwycWkqSZS0iz3-6xYnyUiZ64Wks=w1920-h927-rw-v1">
+<img alt=" 3D PRINTER " src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihavQ3q85r0KJp_B3WnhiovXIisztT8SQOVLTVviqDwjjuOF0_UX35uqsPmToXCtqFcYlLCTwycWkqSZS0iz3-6xYnyUiZ64Wks=w1920-h927-rw-v1">
 
 Power Supply
-<img alt="MOSTAFA HP 3D PRINTER" src=" https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZIz41kx6reBm0ECSv_zbm9DF3Vgv8kTiVTXvBi2PuKh_o7yjpG8tENuoBOuVtFdwSW4dgGlpYRpxgpBzThX1twHD77CpyXotA=w1227-h927-rw-v1">
+<img alt="MOSTAFA HP 3D PRINTER" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZIz41kx6reBm0ECSv_zbm9DF3Vgv8kTiVTXvBi2PuKh_o7yjpG8tENuoBOuVtFdwSW4dgGlpYRpxgpBzThX1twHD77CpyXotA=w1227-h927-rw-v1">
 
 ## Important Porblem 
 
